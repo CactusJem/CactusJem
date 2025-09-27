@@ -12,4 +12,4 @@ A curious learner diving into **Software Engineering** and **Cloud Tech** ☁️
 
 ---
 
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CactusJem&show_icons=true&theme=gruvbox) #
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CactusJem&show_icons=true&theme=gruvbox) 
